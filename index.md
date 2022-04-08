@@ -1,3 +1,5 @@
+### profile in progress
+
 ## Yuri Calleo, PhD student @ University College Dublin
 
 <img width="150" height="150" src="https://user-images.githubusercontent.com/93609038/162545891-27d99bda-013c-41f8-90f4-153d33ae2877.jpg">
@@ -17,7 +19,7 @@ Specifically, the research activity is illustrated in detail below:
 3. Environmental and climatic research. Many of the previously mentioned techniques and approaches have been applied in climatic and environmental contexts. Particular studies have been made on the challenges of climate change (in particular in coastal areas), carried out in the context of European projects (H2020 SCORE project), with the aim of studying methods to understand the threats and future projections. During the research activities, various methodologies were used, including participatory processes (Delphi, Real-time Delphi, Spatial Delphi, and Real-Time Spatial Delphi), in order to identify policies in environmental contexts.
 
 ### Publications and conference proceedings
-
+...
 
 ### Contact me
 email: yuri.calleo@ucdconnect.ie
