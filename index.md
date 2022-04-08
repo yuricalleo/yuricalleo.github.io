@@ -1,7 +1,7 @@
 ## Yuri Calleo, PhD student @ University College Dublin
 
-## Bio 
-I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. 
+### Bio 
+I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. I obtained a MS.c. in Social Research (2021) from the University "G. d'Annunzio", Chieti-Pescara.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
