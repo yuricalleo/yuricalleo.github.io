@@ -1,7 +1,7 @@
 ## Yuri Calleo, PhD student @ University College Dublin
 
 ### Bio 
-I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. I obtained a MS.c. in Social Research (2021) from the University "G. d'Annunzio", Chieti-Pescara.
+I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. I obtained a MS.c. in Social Research (2021) from the University "G. d'Annunzio", Chieti-Pescara, where I am actually a Adjunct Fellow in Social Statistics.
 
 ### Personal interests
 
@@ -38,6 +38,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuricalleo/yuricalleo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact me
+email: yuri.calleo@ucdconnect.ie
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
