@@ -1,10 +1,9 @@
 ## Yuri Calleo, PhD student @ University College Dublin
 
+<img width="150" height="150" src="https://user-images.githubusercontent.com/93609038/162545891-27d99bda-013c-41f8-90f4-153d33ae2877.jpg">
+
 ### Bio 
 I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. I obtained a MS.c. in Social Research (2021) from the University "G. d'Annunzio", Chieti-Pescara, where I am actually an Adjunct Fellow in Social Statistics.
-
-<img width="100" height="100" src="https://user-images.githubusercontent.com/93609038/162545891-27d99bda-013c-41f8-90f4-153d33ae2877.jpg">
-
 
 ### Personal interests
 
