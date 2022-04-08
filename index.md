@@ -14,7 +14,7 @@ Specifically, the research activity is illustrated in detail below:
 
 3. Environmental and climatic research. Many of the previously mentioned techniques and approaches have been applied in climatic and environmental contexts. Particular studies have been made on the challenges of climate change (in particular in coastal areas), carried out in the context of European projects (H2020 SCORE project), with the aim of studying methods to understand the threats and future projections. During the research activities, various methodologies were used, including participatory processes (Delphi, Real-time Delphi, Spatial Delphi, and Real-Time Spatial Delphi), in order to identify policies in environmental contexts.
 
-![image info]("C:\Users\39320\Desktop\yuri.jpg")
+![Book logo]("C:\Users\39320\Desktop\yuri.jpg")
 
 ### Contact me
 email: yuri.calleo@ucdconnect.ie
