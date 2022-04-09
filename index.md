@@ -16,7 +16,7 @@ Statistical learning; Spatial data; Text Mining; Machine Learning;
 1. PhD in Architecture, Planning and Environmental Policy (T300), University College Dublin, Belfield, Dublin 4, Ireland (D04 V1W8) - **in progress**
 - Statistical analysis of decision-making processes;
 - Acquisition and use of spatial data;
-- Development of Web-GIS platforms
+- Development of a Real-Time Spatial Delphi platform [RT-GSCS](http://rtgscs.com/)
 - Statistical learning
 - Supervisor: Prof. [Francesco Pilla](https://people.ucd.ie/francesco.pilla)
 3. MS.c. in Social Research (LM-88), University "G. d'Annunzio", Chieti-Pescara, Chieti, Italy - October **2021**.
