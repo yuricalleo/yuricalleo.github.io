@@ -2,7 +2,7 @@
 
 <img width="150" height="150" src="https://user-images.githubusercontent.com/93609038/162545891-27d99bda-013c-41f8-90f4-153d33ae2877.jpg">
 
-[Google Scholar](https://scholar.google.com/citations?user=jCLQ7bAAAAAJ&hl=it&oi=ao) [ResearchGate](https://www.researchgate.net/profile/Yuri-Calleo-2)
+[**Google Scholar**](https://scholar.google.com/citations?user=jCLQ7bAAAAAJ&hl=it&oi=ao) [**ResearchGate**](https://www.researchgate.net/profile/Yuri-Calleo-2)
 
 
 ### 🖋️ Bio 
