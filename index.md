@@ -37,6 +37,9 @@ Specifically, the research activity is illustrated in detail below:
 **Calleo Y.**, Di Zio S., (2021). Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application. [ASA 2021 Statistics and Information Systems for Policy Evaluation, BOOK OF SHORT PAPERS of the on-site conference](https://media.fupress.com/files/pdf/24/9592/26251), doi: 10.36253/978-88-5518-461-8.33
 
 ### Contact me
+Yuri Calleo
+Spatial Dynamics Lab
+University College Dublin
 email: yuri.calleo@ucdconnect.ie
 
 
