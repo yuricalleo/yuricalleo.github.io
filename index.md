@@ -6,7 +6,7 @@
 I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. I obtained a MS.c. in Social Research (2021) from the University "G. d'Annunzio", Chieti-Pescara, where I am actually an Adjunct Fellow in Social Statistics.
 
 ### Education
-1. PhD in Architecture, Planning and Environmental Policy (T300), University College Dublin - Belfield, Dublin 4, Ireland (D04 V1W8) - **in progress**
+1. PhD in Architecture, Planning and Environmental Policy (T300), University College Dublin, Belfield, Dublin 4, Ireland (D04 V1W8) - **in progress**
 2. MS.c. in Social Research (LM-88), University "G. d'Annunzio", Chieti-Pescara, Chieti, Italy - October 2021.
 
 ### Research profile
