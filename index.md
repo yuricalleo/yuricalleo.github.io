@@ -18,6 +18,10 @@ I am a PhD student at the University College Dublin and research member of the [
 1. H2020 SCORE (Smart Control of the Climate Resilience in European Coastal Cities) project. Role: Research member. Main tasks: Use of geostatistical techniques for the analysis of participatory processes, development of projects for the analysis of future projections, spatial data analysis. 2021 - **in progress**
 2. "Il ruolo delle metodologie statistiche nell’ambito dei Future Studies", Coordinator: Prof. Simone Di Zio, Department of Legal and Social Sciences, University "G. d’Annunzio ", Chieti-Pescara, Area 13, Social Statistics - SECS-S / 05, 2021 Role: Research member. 2020 - **in progress **.
 
+### Mobility experience
+1. Erasmus+ KA1. University of Craiova (RO). 15/02/2021 – 15/07/2021.
+2. Erasmus+ KA1. University of Craiova (RO). 01/10/2017 – 28/06/2018.
+
 ### Research profile
 
 The research activity covered various fields of application focusing on statistical learning and social statistics, with applications in environmental, climatic, global health, and social contexts.
