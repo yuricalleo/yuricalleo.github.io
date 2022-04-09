@@ -1,4 +1,4 @@
-## Yuri Calleo, PhD student @ University College Dublin
+## Yuri Calleo, PhD student @ Spatial Dynamics Lab - University College Dublin
 
 <img width="150" height="150" src="https://user-images.githubusercontent.com/93609038/162545891-27d99bda-013c-41f8-90f4-153d33ae2877.jpg">
 
@@ -14,7 +14,15 @@ Statistical learning; Spatial data; Text Mining; Machine Learning;
 
 ### 🎓 Education
 1. PhD in Architecture, Planning and Environmental Policy (T300), University College Dublin, Belfield, Dublin 4, Ireland (D04 V1W8) - **in progress**
-2. MS.c. in Social Research (LM-88), University "G. d'Annunzio", Chieti-Pescara, Chieti, Italy - October **2021**.
+- Statistical analysis of decision-making processes;
+- Acquisition and use of spatial data;
+- Development of Web-GIS platforms
+- Statistical learning
+3. MS.c. in Social Research (LM-88), University "G. d'Annunzio", Chieti-Pescara, Chieti, Italy - October **2021**.
+- Grade: Summa cum laude (110/110L)
+- Thesis title: Future Scenarios and Spatial data Mining: an application on COVID-19 Twitter data
+- Forensic Statistics (SECS-S / 05)
+- Advisor: Prof. Simone Di Zio
 {: style="text-align: justify"}
 
 
