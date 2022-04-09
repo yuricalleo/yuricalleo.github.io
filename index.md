@@ -45,7 +45,7 @@ Specifically, the research activity is illustrated in detail below:
 2. Spontaneous contribution entitled: "Future scenarios and spatial data mining: an application on COVID-19 Twitter data" presented at the 50th Scientific Conference of the Italian Statistical Society (SIS), Pisa Co-author: Di Zio, S. 24/06/**2021**
 
 ### Referee activities
-1. Reviewer for the conference: TIS Rome 2022 (AIIT 3rd “Transport Infrastructure and Systems - International Congress”).
+1. Reviewer for the conference: TIS Rome **2022** (AIIT 3rd “Transport Infrastructure and Systems - International Congress”).
 
 ### Contact me
 Yuri Calleo
