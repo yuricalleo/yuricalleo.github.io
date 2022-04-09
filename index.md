@@ -24,7 +24,7 @@ Statistical learning; Spatial data; Text Mining; Machine Learning;
 3. Programming Languages: R, Python (Statistical Analysis)
 {: style="text-align: justify"}
 
-### 🗣 Participation in national and international research projects
+### 👥 Participation in national and international research projects
 1. H2020 SCORE (Smart Control of the Climate Resilience in European Coastal Cities) project. Role: Research member. Main tasks: Use of geostatistical techniques for the analysis of participatory processes, development of projects for the analysis of future projections, spatial data analysis. 2021 - **in progress**
 2. "Il ruolo delle metodologie statistiche nell’ambito dei Future Studies", Coordinator: Prof. Simone Di Zio, Department of Legal and Social Sciences, University "G. d’Annunzio ", Chieti-Pescara, Area 13, Social Statistics - SECS-S / 05, 2021 Role: Research member. 2021 - **in progress**
 {: style="text-align: justify"}
