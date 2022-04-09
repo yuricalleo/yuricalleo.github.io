@@ -2,7 +2,7 @@
 
 <img width="150" height="150" src="https://user-images.githubusercontent.com/93609038/162545891-27d99bda-013c-41f8-90f4-153d33ae2877.jpg">
 
-[**Google Scholar**](https://scholar.google.com/citations?user=jCLQ7bAAAAAJ&hl=it&oi=ao) | [**ResearchGate**](https://www.researchgate.net/profile/Yuri-Calleo-2)
+<img width="150" height="150" src="https://user-images.githubusercontent.com/93609038/162563337-98bc89fc-9339-4416-af06-12f9b04ba699.png">[**Google Scholar**](https://scholar.google.com/citations?user=jCLQ7bAAAAAJ&hl=it&oi=ao) | [**ResearchGate**](https://www.researchgate.net/profile/Yuri-Calleo-2)
 
 
 ### 🖋️ Bio 
