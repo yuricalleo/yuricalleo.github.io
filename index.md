@@ -18,11 +18,12 @@ Statistical learning; Spatial data; Text Mining; Machine Learning;
 - Acquisition and use of spatial data;
 - Development of Web-GIS platforms
 - Statistical learning
+- Supervisor: Prof. [Francesco Pilla](https://people.ucd.ie/francesco.pilla)
 3. MS.c. in Social Research (LM-88), University "G. d'Annunzio", Chieti-Pescara, Chieti, Italy - October **2021**.
 - Grade: Summa cum laude (110/110L)
 - Thesis title: Future Scenarios and Spatial data Mining: an application on COVID-19 Twitter data
 - Forensic Statistics (SECS-S / 05)
-- Advisor: Prof. Simone Di Zio
+- Advisor: Prof. [Simone Di Zio](https://www.unich.it/ugov/person/1542)
 {: style="text-align: justify"}
 
 
