@@ -1,5 +1,3 @@
-### profile in progress
-
 ## Yuri Calleo, PhD student @ University College Dublin
 
 <img width="150" height="150" src="https://user-images.githubusercontent.com/93609038/162545891-27d99bda-013c-41f8-90f4-153d33ae2877.jpg">
