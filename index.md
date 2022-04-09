@@ -48,9 +48,6 @@ Specifically, the research activity is illustrated in detail below:
 1. Reviewer for the conference: TIS Rome **2022** (AIIT 3rd “Transport Infrastructure and Systems - International Congress”).
 
 ### Contact me
-Yuri Calleo
-Spatial Dynamics Lab
-University College Dublin
-email: yuri.calleo@ucdconnect.ie
+Yuri Calleo, Spatial Dynamics Lab, University College Dublin, email: yuri.calleo@ucdconnect.ie
 
 
