@@ -34,7 +34,7 @@ Specifically, the research activity is illustrated in detail below:
 3. Environmental and climatic research. Many of the previously mentioned techniques and approaches have been applied in climatic and environmental contexts. Particular studies have been made on the challenges of climate change (in particular in coastal areas), carried out in the context of European projects (H2020 SCORE project), with the aim of studying methods to understand the threats and future projections. During the research activities, various methodologies were used, including participatory processes (Delphi, Real-time Delphi, Spatial Delphi, and Real-Time Spatial Delphi), in order to identify policies in environmental contexts.
 
 ### Conference proceedings
-**Calleo Y.**, Di Zio S., (2021). Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application. ASA 2021 Statistics and Information Systems for Policy Evaluation, BOOK OF SHORT PAPERS of the on-site conference, doi: 10.36253/978-88-5518-461-8.33
+**Calleo Y.**, Di Zio S., (2021). Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application. [ASA 2021 Statistics and Information Systems for Policy Evaluation, BOOK OF SHORT PAPERS of the on-site conference] (https://media.fupress.com/files/pdf/24/9592/26251), doi: 10.36253/978-88-5518-461-8.33
 
 ### Contact me
 email: yuri.calleo@ucdconnect.ie
