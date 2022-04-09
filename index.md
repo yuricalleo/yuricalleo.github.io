@@ -13,7 +13,7 @@ I am a PhD student at the University College Dublin and research member of the [
 Statistical learning; Spatial data; Text Mining; Machine Learning; 
 
 ### 🎓 Education
-1. PhD in Architecture, Planning and Environmental Policy (T300), University College Dublin, Belfield, Dublin 4, Ireland (D04 V1W8) - **in progress**
+1. PhD in Architecture, Planning and Environmental Policy (T300), Spatial Dybnamics Lab, University College Dublin, Belfield, Dublin 4, Ireland (D04 V1W8) - **in progress**
 - Statistical analysis of decision-making processes;
 - Acquisition and use of spatial data;
 - Development of a Real-Time Spatial Delphi platform [RT-GSCS](http://rtgscs.com/)
