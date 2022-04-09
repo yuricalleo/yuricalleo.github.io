@@ -7,6 +7,7 @@ I am a PhD student at the University College Dublin and research member of the [
 
 ### Education
 1. PhD in Architecture, Planning and Environmental Policy (T300), University College Dublin - Belfield, Dublin 4, Ireland (D04 V1W8) - **in progress**
+2. MS.c. in Social Research (LM-88), University "G. d'Annunzio", Chieti-Pescara, Chieti, Italy - October 2021.
 
 ### Research profile
 
