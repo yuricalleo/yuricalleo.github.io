@@ -15,7 +15,7 @@ Statistical learning; Spatial data; Text Mining; Machine Learning;
 {: style="text-align: justify"}
 
 
-### Computer Skills
+### :computer: Computer Skills
 1. Operating Systems: Windows, MacOS, Linux
 2. Relative packages: Office, SPSS, QGIS
 3. Programming Languages: R, Python (Statistical Analysis)
