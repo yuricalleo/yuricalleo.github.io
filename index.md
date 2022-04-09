@@ -33,8 +33,16 @@ Specifically, the research activity is illustrated in detail below:
 
 3. Environmental and climatic research. Many of the previously mentioned techniques and approaches have been applied in climatic and environmental contexts. Particular studies have been made on the challenges of climate change (in particular in coastal areas), carried out in the context of European projects (H2020 SCORE project), with the aim of studying methods to understand the threats and future projections. During the research activities, various methodologies were used, including participatory processes (Delphi, Real-time Delphi, Spatial Delphi, and Real-Time Spatial Delphi), in order to identify policies in environmental contexts.
 
-### Conference proceedings
-**Calleo Y.**, Di Zio S., (2021). Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application. ASA 2021 Statistics and Information Systems for Policy Evaluation, BOOK OF SHORT PAPERS of the on-site conference, doi: [10.36253/978-88-5518-461-8.33](https://media.fupress.com/files/pdf/24/9592/26251)
+### Conference proceedings and Poster sessions
+**Calleo Y.**, Di Zio S., (**2021**). Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application. ASA 2021 Statistics and Information Systems for Policy Evaluation, BOOK OF SHORT PAPERS of the on-site conference, doi: [10.36253/978-88-5518-461-8.33](https://media.fupress.com/files/pdf/24/9592/26251)
+Di Zio S., **Calleo Y.**, (**2021**). Future scenarios and spatial data mining: an application on COVID-19 Twitter data. 50th Scientific Meeting of the Italian Statistical Society, Pisa. [Poster Session](http://www.sis-statistica.it/ita/2/index.php?p=10023)
+
+### Participation in national and international conferences
+1. Spontaneous contribution entitled: “Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application” presented at the ASA 2021 Statistics and Information Systems for Policy Evaluation conference, Florence. Co-author: Di Zio, S. 07/09/**2021**
+2. Spontaneous contribution entitled: "Future scenarios and spatial data mining: an application on COVID-19 Twitter data" presented at the 50th Scientific Conference of the Italian Statistical Society (SIS), Pisa Co-author: Di Zio, S. 24/06/**2021**
+
+### Referee activities
+1. Reviewer for the conference: TIS Rome 2022 (AIIT 3rd “Transport Infrastructure and Systems - International Congress”).
 
 ### Contact me
 Yuri Calleo
