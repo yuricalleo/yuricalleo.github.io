@@ -58,8 +58,10 @@ Specifically, the research activity is illustrated in detail below:
 {: style="text-align: justify"}
 
 ### 📄 Conference proceedings and Poster sessions
-1. **Calleo Y.**, Di Zio S., (**2021**). Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application. ASA 2021 Statistics and Information Systems for Policy Evaluation, BOOK OF SHORT PAPERS of the on-site conference, doi: [10.36253/978-88-5518-461-8.33](https://media.fupress.com/files/pdf/24/9592/26251)
-2. Di Zio S., **Calleo Y.**, (**2021**). Future scenarios and spatial data mining: an application on COVID-19 Twitter data. 50th Scientific Meeting of the Italian Statistical Society, Pisa. [Poster Session](http://www.sis-statistica.it/ita/2/index.php?p=10023)
+1. **Calleo Y.**, Pilla F., (2022). Using geo-spatial topic modelling to understand the public view of Italian Twitter users: a climate change application. – **accepted, in press**
+2. **Calleo Y.**, Di Zio S., Russo V., (2022). Exploiting Text Mining and Social Network Analysis for future scenarios development: an application on remote working. – **accepted, in press**
+3. **Calleo Y.**, Di Zio S., (**2021**). Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application. ASA 2021 Statistics and Information Systems for Policy Evaluation, BOOK OF SHORT PAPERS of the on-site conference, doi: [10.36253/978-88-5518-461-8.33](https://media.fupress.com/files/pdf/24/9592/26251)
+4. Di Zio S., **Calleo Y.**, (**2021**). Future scenarios and spatial data mining: an application on COVID-19 Twitter data. 50th Scientific Meeting of the Italian Statistical Society, Pisa. [Poster Session](http://www.sis-statistica.it/ita/2/index.php?p=10023)
 {: style="text-align: justify"}
 
 ### 🗣 Participation in national and international conferences
