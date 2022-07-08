@@ -8,7 +8,7 @@
 
 
 ### Bio 
-I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. I obtained a MS.c. in Social Research (2021) from the University "G. d'Annunzio", Chieti-Pescara, where I am actually an Adjunct Fellow in Social Statistics.
+I am a PhD student at the University College Dublin and research member of the [SCORE](https://score-eu-project.eu/our-team/) H2020 EU project. I obtained a MS.c. in Social Research (2021) from the University "G. d'Annunzio", Chieti-Pescara, where I am actually a Subject Expert in Social Statistics.
 {: style="text-align: justify"}
 
 ### Research interests
