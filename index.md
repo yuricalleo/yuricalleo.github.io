@@ -66,9 +66,9 @@ Specifically, the research activity is illustrated in detail below:
 {: style="text-align: justify"}
 
 ### Participation in national and international conferences
-1. Spontaneous contribute entitled: “A Natural Language Processing approach to measure expertise in the Delphi-based scenarios” presented at the ASA 2022 Statistics and Information Systems for Policy Evaluation conference, Genova. Di Zio, S., Pilla F. 13/09/**2022**
-2. Spontaneous contribute entitled: “Exploiting Text Mining and Social Network Analysis for future scenarios development: an application on remote working” presented at the SIS2022 - 51st scientific meeting of the Italian Statistical Society, Caserta. Co-author: Di Zio, S., Russo, V. 24/06/**2022**
-3. Spontaneous contribute entitled: “Using geo-spatial topic modelling to understand the public view of Italian Twitter users: a climate change application” presented at the SIS2022 - 51st scientific meeting of the Italian Statistical Society, Caserta. Co-author: Pilla, F. 22/06/**2022**
+1. Spontaneous contribution entitled: “A Natural Language Processing approach to measure expertise in the Delphi-based scenarios” presented at the ASA 2022 Statistics and Information Systems for Policy Evaluation conference, Genova. Di Zio, S., Pilla F. 13/09/**2022**
+2. Spontaneous contribution entitled: “Exploiting Text Mining and Social Network Analysis for future scenarios development: an application on remote working” presented at the SIS2022 - 51st scientific meeting of the Italian Statistical Society, Caserta. Co-author: Di Zio, S., Russo, V. 24/06/**2022**
+3. Spontaneous contribution entitled: “Using geo-spatial topic modelling to understand the public view of Italian Twitter users: a climate change application” presented at the SIS2022 - 51st scientific meeting of the Italian Statistical Society, Caserta. Co-author: Pilla, F. 22/06/**2022**
 4. Spontaneous contribution entitled: “Unsupervised spatial data mining for the development of future scenarios: a Covid-19 application” presented at the ASA 2021 Statistics and Information Systems for Policy Evaluation conference, Florence. Co-author: Di Zio, S. 07/09/**2021**
 5. Spontaneous contribution entitled: "Future scenarios and spatial data mining: an application on COVID-19 Twitter data" presented at the 50th Scientific Conference of the Italian Statistical Society (SIS), Pisa Co-author: Di Zio, S. 24/06/**2021**
 {: style="text-align: justify"}
