@@ -75,6 +75,7 @@ Specifically, the research activity is illustrated in detail below:
 
 ### Scientific Affiliations
 1. Member of the Foresight Europe Network (FEN) - June 2022 - Present
+2. Member of the Irish Statistical Association (ISA) - 2022 - Present
 
 ### Referee activities
 1. Reviewer for the conference: TIS Rome **2022** (AIIT 3rd “Transport Infrastructure and Systems - International Congress”).
