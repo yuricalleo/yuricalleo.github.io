@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 **Scientific Publications**
-
+<p align="justify">
 1. **Calleo Y.**, and Pilla F. (**2025**). Integrating generative pre-trained transformers in spatial decision support systems to facilitate expert consensus. *Spatial Information Science*, 33, 38.  
    [https://doi.org/10.1007/s41324-025-00637-w](https://doi.org/10.1007/s41324-025-00637-w)
 
@@ -93,4 +93,4 @@ title: "Publications"
 
 24. Di Zio S., and **Calleo Y.** (**Poster, 2021**). Future scenarios and spatial data mining: an application on COVID-19 Twitter data. *50th Scientific Meeting of the Italian Statistical Society.*  
     [http://dx.doi.org/10.13140/RG.2.2.25774.23367](http://dx.doi.org/10.13140/RG.2.2.25774.23367)
-
+</p>
