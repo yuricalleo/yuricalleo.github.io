@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yuri Calleo"
-  avatar : "/assets/images/yuri.jpg"
+  avatar : "/assets/images/yuri.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
