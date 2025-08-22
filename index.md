@@ -6,5 +6,7 @@ layout: single
 author_profile: true
 ---
 **Yuri Calleo**
+
 PostDoc at the University "G. d'Annunzio", Chieti-Pescara, Italy
-:mag_right: Research interests
+
+🔍 Research interests
