@@ -3,10 +3,10 @@ permalink: /publications/
 title: "Publications"
 ---
 **Scientific Publications**
-<p align="justify">
+
 1. **Calleo Y.**, and Pilla F. (**2025**). Integrating generative pre-trained transformers in spatial decision support systems to facilitate expert consensus. *Spatial Information Science*, 33, 38.  
    [https://doi.org/10.1007/s41324-025-00637-w](https://doi.org/10.1007/s41324-025-00637-w)
-</p>
+
 2. **Calleo Y.**, Di Zio S., Giuffrida N. (**2025**). Assessing smartphone use while driving: A Real-Time Delphi study on risks and prevention strategies. *Research in Transportation Business & Management* (Fascia A area 13/D).  
    [https://doi.org/10.1016/j.rtbm.2025.101469](https://doi.org/10.1016/j.rtbm.2025.101469)
 
