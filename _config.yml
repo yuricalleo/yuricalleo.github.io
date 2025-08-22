@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Yuri Calleo"
   avatar : "/assets/images/yuri.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PostDoc @ University "G. d'Annunzio", Chieti-Pescara, Italy"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
